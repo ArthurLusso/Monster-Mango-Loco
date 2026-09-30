@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     color: white;
     font-family: "Teko", sans-serif;
-    background: linear-gradient(#090909, #053754 50%, #090909)
+    background: linear-gradient(#000000, #06598d 50%, #000000)
 }
 
 /* HEADER */
@@ -81,7 +81,7 @@ main{
 }
 
 .energy{
-   color: #00ccff;
+   color: #ffc800;
 }
 
 .descricao{
